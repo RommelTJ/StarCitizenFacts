@@ -1,0 +1,55 @@
+#############
+## Java/Maven
+#############
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+*.class
+*.jar
+*.war
+*.ear
+
+#################
+## IntelliJ
+#################
+.idea/
+*.iml
+*.iws
+rebel.xml
+
+#################
+## Eclipse
+#################
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+.cproject
+.buildpath
+
+#############
+## Windows crap
+#############
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+#############
+## Mac crap
+#############
+.DS_Store

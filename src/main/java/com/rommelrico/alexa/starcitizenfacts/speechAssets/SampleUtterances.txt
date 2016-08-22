@@ -1,0 +1,15 @@
+GetStarCitizenFactIntent a fact
+GetStarCitizenFactIntent a star citizen fact
+GetStarCitizenFactIntent tell me a fact
+GetStarCitizenFactIntent tell me a star citizen fact
+GetStarCitizenFactIntent give me a fact
+GetStarCitizenFactIntent give me a star citizen fact
+GetStarCitizenFactIntent tell me trivia
+GetStarCitizenFactIntent tell me a star citizen trivia
+GetStarCitizenFactIntent give me trivia
+GetStarCitizenFactIntent give me a star citizen trivia
+GetStarCitizenFactIntent give me some information
+GetStarCitizenFactIntent give me some star citizen information
+GetStarCitizenFactIntent tell me something
+GetStarCitizenFactIntent give me something
+
