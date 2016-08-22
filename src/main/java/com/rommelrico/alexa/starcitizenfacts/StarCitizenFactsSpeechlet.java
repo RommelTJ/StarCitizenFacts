@@ -36,8 +36,16 @@ public class StarCitizenFactsSpeechlet implements Speechlet {
      * Array containing Star Citizen facts.
      */
     private static final String[] STAR_CITIZEN_FACTS = new String[] {
-        "TODO",
-        "TODO"
+            "Both Star Citizen and Squadron 42 are set in a 30th-century Milky Way centered around the fictional UEE.",
+            "Star Citizen will be localized to English, French, German and Spanish with plans to handle other languages afterwards.",
+            "Chris Roberts is the Lead designer for Star Citizen.",
+            "The Persistent Universe Lead for Star Citizen is Tony Zurovec.",
+            "The Audio Director for Star Citizen is Martin Galway.",
+            "The Loremaster for Star Citizen is Dave Haddock.",
+            "Star Citizen features an accurate newtonian based physics engine.",
+            "The primary methods of propulsion are thrusters, quantum drives, and jump drives.",
+            "The Star Citizen economy will be based around the United Earth Credit or UEC.",
+            "Star Citizen will not require a monthly subscription fee nor will it require players to purchase in-game addons."
     };
 
     @Override
