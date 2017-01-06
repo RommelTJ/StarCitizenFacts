@@ -44,7 +44,7 @@ public class StarCitizenFactsSpeechlet implements Speechlet {
             "The Loremaster for Star Citizen is Dave Haddock.",
             "Star Citizen features an accurate newtonian based physics engine.",
             "The primary methods of propulsion are thrusters, quantum drives, and jump drives.",
-            "The Star Citizen economy will be based around the United Earth Credit or UEC.",
+            "The Star Citizen economy will be based around the United Earth Credit.",
             "Star Citizen will not require a monthly subscription fee nor will it require players to purchase in-game addons."
     };
 
